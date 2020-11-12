@@ -8,6 +8,7 @@ Try to download `Supernatural` with its 316 episodes from EgyBest or any website
 EgyBest without the annoying ads .
 * ***Currently working on a Gui version*** 
 ## What's new 
+* (v 1.1.2) : save quality, save url for download
 * (v 1.0.2) : updating the search and ad closing algorithm, adding `Chose quality` option . 
 
 * (v 1.1.0 ) : Fixing major bugs and improving code quality.
